@@ -46,26 +46,14 @@ if (sentryDsn && sentryDsn.length > 0) {
         tracesSampleRate: 0.5,
     });
 }
-const https = require('https');
-// const HOST = 'localhost';
-// // const HTTP_PORT = 3000;
-// const HTTPS_PORT = 3001;
 (async () => {
     const app = new koa_1.default();
-    // const port = process.env.PORT || 5000;
+    const port = process.env.PORT || 5000;
     app.use((0, koa_body_1.default)());
     app.use((0, koa_helmet_1.default)());
     app.use((0, cors_1.default)());
     app.use(routes_1.default.routes());
-    // app.listen(port, () => {
-    //     console.log(chalk_1.default.blue('[API]'), 'Running on', chalk_1.default.yellow(`0.0.0.0:${port}`));
-    // });
-//         https.createServer(app.callback())
-//   .listen(HTTPS_PORT, HOST, listeningReporter)
-    https.createServer(app.callback()).listen(3000)
-    // port, () => {
-    //     console.log(chalk_1.default.blue('[API]'), 'Running on', chalk_1.default.yellow(`0.0.0.0:${port}`));
-    // })
+    app.listen(port, () => {
+        console.log(chalk_1.default.blue('[API]'), 'Running on', chalk_1.default.yellow(`0.0.0.0:${port}`));
+    });
 })();
-
-// a
