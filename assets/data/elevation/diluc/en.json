@@ -1,0 +1,130 @@
+{
+    "items": [
+        {
+            "rank": "1",
+            "lvl": "20",
+            "cost": "20000",
+            "mat1": {
+                "name": "Agnidus Agate Sliver",
+                "qte": "1"
+            },
+            "mat4": {
+                "name": "none",
+                "qte": "pas de 4eme matériaux"
+            },
+            "mat2": {
+                "name": "Small Lamp Grass",
+                "qte": "3"
+            },
+            "mat3": {
+                "name": "Recruit's Insignia",
+                "qte": "3"
+            }
+        },
+        {
+            "rank": "2",
+            "lvl": "40",
+            "cost": "40000",
+            "mat1": {
+                "name": "Agnidus Agate Fragment",
+                "qte": "3"
+            },
+            "mat4": {
+                "name": "Everflame Seed",
+                "qte": "2"
+            },
+            "mat2": {
+                "name": "Small Lamp Grass",
+                "qte": "10"
+            },
+            "mat3": {
+                "name": "Recruit's Insignia",
+                "qte": "15"
+            }
+        },
+        {
+            "rank": "3",
+            "lvl": "50",
+            "cost": "60000",
+            "mat1": {
+                "name": "Agnidus Agate Fragment",
+                "qte": "6"
+            },
+            "mat4": {
+                "name": "Everflame Seed",
+                "qte": "4"
+            },
+            "mat2": {
+                "name": "Small Lamp Grass",
+                "qte": "20"
+            },
+            "mat3": {
+                "name": "Sergeant's Insignia",
+                "qte": "12"
+            }
+        },
+        {
+            "rank": "4",
+            "lvl": "60",
+            "cost": "80000",
+            "mat1": {
+                "name": "Agnidus Agate Chunk",
+                "qte": "3"
+            },
+            "mat4": {
+                "name": "Everflame Seed",
+                "qte": "8"
+            },
+            "mat2": {
+                "name": "Small Lamp Grass",
+                "qte": "30"
+            },
+            "mat3": {
+                "name": "Sergeant's Insignia",
+                "qte": "18"
+            }
+        },
+        {
+            "rank": "5",
+            "lvl": "70",
+            "cost": "100000",
+            "mat1": {
+                "name": "Agnidus Agate Chunk",
+                "qte": "6"
+            },
+            "mat4": {
+                "name": "Everflame Seed",
+                "qte": "12"
+            },
+            "mat2": {
+                "name": "Small Lamp Grass",
+                "qte": "45"
+            },
+            "mat3": {
+                "name": "Lieutenant's Insignia",
+                "qte": "12"
+            }
+        },
+        {
+            "rank": "6",
+            "lvl": "80",
+            "cost": "120000",
+            "mat1": {
+                "name": "Agnidus Agate Gemstone",
+                "qte": "6"
+            },
+            "mat4": {
+                "name": "Everflame Seed",
+                "qte": "20"
+            },
+            "mat2": {
+                "name": "Small Lamp Grass",
+                "qte": "60"
+            },
+            "mat3": {
+                "name": "Lieutenant's Insignia",
+                "qte": "24"
+            }
+        }
+    ]
+}

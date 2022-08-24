@@ -1,0 +1,130 @@
+{
+    "items": [
+        {
+            "rank": "1",
+            "lvl": "20",
+            "cost": "20000",
+            "mat1": {
+                "name": "Shivada Jade Sliver",
+                "qte": "1"
+            },
+            "mat4": {
+                "name": "none",
+                "qte": "pas de 4eme matériaux"
+            },
+            "mat2": {
+                "name": "Crystal Marrow",
+                "qte": "3"
+            },
+            "mat3": {
+                "name": "Spectral Husk",
+                "qte": "3"
+            }
+        },
+        {
+            "rank": "2",
+            "lvl": "40",
+            "cost": "40000",
+            "mat1": {
+                "name": "Shivada Jade Fragment",
+                "qte": "3"
+            },
+            "mat4": {
+                "name": "Crystalline Bloom",
+                "qte": "2"
+            },
+            "mat2": {
+                "name": "Crystal Marrow",
+                "qte": "10"
+            },
+            "mat3": {
+                "name": "Spectral Husk",
+                "qte": "15"
+            }
+        },
+        {
+            "rank": "3",
+            "lvl": "50",
+            "cost": "60000",
+            "mat1": {
+                "name": "Shivada Jade Fragment",
+                "qte": "6"
+            },
+            "mat4": {
+                "name": "Crystalline Bloom",
+                "qte": "4"
+            },
+            "mat2": {
+                "name": "Crystal Marrow",
+                "qte": "20"
+            },
+            "mat3": {
+                "name": "Spectral Heart",
+                "qte": "12"
+            }
+        },
+        {
+            "rank": "4",
+            "lvl": "60",
+            "cost": "80000",
+            "mat1": {
+                "name": "Shivada Jade Chunk",
+                "qte": "3"
+            },
+            "mat4": {
+                "name": "Crystalline Bloom",
+                "qte": "8"
+            },
+            "mat2": {
+                "name": "Crystal Marrow",
+                "qte": "30"
+            },
+            "mat3": {
+                "name": "Spectral Heart",
+                "qte": "18"
+            }
+        },
+        {
+            "rank": "5",
+            "lvl": "70",
+            "cost": "100000",
+            "mat1": {
+                "name": "Shivada Jade Chunk",
+                "qte": "6"
+            },
+            "mat4": {
+                "name": "Crystalline Bloom",
+                "qte": "12"
+            },
+            "mat2": {
+                "name": "Crystal Marrow",
+                "qte": "45"
+            },
+            "mat3": {
+                "name": "Spectral Nucleus",
+                "qte": "12"
+            }
+        },
+        {
+            "rank": "6",
+            "lvl": "80",
+            "cost": "120000",
+            "mat1": {
+                "name": "Shivada Jade Gemstone",
+                "qte": "6"
+            },
+            "mat4": {
+                "name": "Crystalline Bloom",
+                "qte": "20"
+            },
+            "mat2": {
+                "name": "Crystal Marrow",
+                "qte": "60"
+            },
+            "mat3": {
+                "name": "Spectral Nucleus",
+                "qte": "24"
+            }
+        }
+    ]
+}

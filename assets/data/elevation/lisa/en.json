@@ -1,0 +1,130 @@
+{
+    "items": [
+        {
+            "rank": "1",
+            "lvl": "20",
+            "cost": "20000",
+            "mat1": {
+                "name": "Vajrada Amethyst Sliver",
+                "qte": "1"
+            },
+            "mat4": {
+                "name": "none",
+                "qte": "pas de 4eme matériaux"
+            },
+            "mat2": {
+                "name": "Valberry",
+                "qte": "3"
+            },
+            "mat3": {
+                "name": "Slime Condensate",
+                "qte": "3"
+            }
+        },
+        {
+            "rank": "2",
+            "lvl": "40",
+            "cost": "40000",
+            "mat1": {
+                "name": "Vajrada Amethyst Fragment",
+                "qte": "3"
+            },
+            "mat4": {
+                "name": "Lightning Prism",
+                "qte": "2"
+            },
+            "mat2": {
+                "name": "Valberry",
+                "qte": "10"
+            },
+            "mat3": {
+                "name": "Slime Condensate",
+                "qte": "15"
+            }
+        },
+        {
+            "rank": "3",
+            "lvl": "50",
+            "cost": "60000",
+            "mat1": {
+                "name": "Vajrada Amethyst Fragment",
+                "qte": "6"
+            },
+            "mat4": {
+                "name": "Lightning Prism",
+                "qte": "4"
+            },
+            "mat2": {
+                "name": "Valberry",
+                "qte": "20"
+            },
+            "mat3": {
+                "name": "Slime Secretions",
+                "qte": "12"
+            }
+        },
+        {
+            "rank": "4",
+            "lvl": "60",
+            "cost": "80000",
+            "mat1": {
+                "name": "Vajrada Amethyst Chunk",
+                "qte": "3"
+            },
+            "mat4": {
+                "name": "Lightning Prism",
+                "qte": "8"
+            },
+            "mat2": {
+                "name": "Valberry",
+                "qte": "30"
+            },
+            "mat3": {
+                "name": "Slime Secretions",
+                "qte": "18"
+            }
+        },
+        {
+            "rank": "5",
+            "lvl": "70",
+            "cost": "100000",
+            "mat1": {
+                "name": "Vajrada Amethyst Chunk",
+                "qte": "6"
+            },
+            "mat4": {
+                "name": "Lightning Prism",
+                "qte": "12"
+            },
+            "mat2": {
+                "name": "Valberry",
+                "qte": "45"
+            },
+            "mat3": {
+                "name": "Slime Concentrate",
+                "qte": "12"
+            }
+        },
+        {
+            "rank": "6",
+            "lvl": "80",
+            "cost": "120000",
+            "mat1": {
+                "name": "Vajrada Amethyst Gemstone",
+                "qte": "6"
+            },
+            "mat4": {
+                "name": "Lightning Prism",
+                "qte": "20"
+            },
+            "mat2": {
+                "name": "Valberry",
+                "qte": "60"
+            },
+            "mat3": {
+                "name": "Slime Concentrate",
+                "qte": "24"
+            }
+        }
+    ]
+}
