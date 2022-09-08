@@ -2,7 +2,7 @@
  * Copyright (c) 2020 genshin.dev
 * Licensed under the Open Software License version 3.0
 */
-import https from 'https';
+//import https from 'https';
 //import http from 'http';
 import Koa from 'koa';
 import koaBody from 'koa-body';
@@ -27,14 +27,14 @@ if (sentryDsn && sentryDsn.length > 0) {
 (async () => {
   const app = new Koa();
   const port = process.env.PORT || 8080;
-  const fs = require('fs');
+ // const fs = require('fs');
 
 
 
-  const options = {
-    key: fs.readFileSync('selfsigned.key'),
-    cert: fs.readFileSync('selfsigned.crt')
-  };
+  //const options = {
+   // key: fs.readFileSync('selfsigned.key'),
+   // cert: fs.readFileSync('selfsigned.crt')
+  //};
 
   //const https = require('https');
   app.use(koaBody());
@@ -51,6 +51,6 @@ if (sentryDsn && sentryDsn.length > 0) {
     );
   });
 
-  https.createServer(options, app.callback()).listen(5000);
+  //https.createServer(options, app.callback()).listen(5000);
   //http.createServer(app.callback()).listen(80)
 })();
