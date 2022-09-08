@@ -1,6 +1,11 @@
 {
   "slime": {
-    "characters": ["lisa", "venti", "xiangling", "zhongli"],
+    "characters": [
+      "lisa",
+      "venti",
+      "xiangling",
+      "zhongli"
+    ],
     "items": [
       {
         "id": "slime-condensate",
@@ -18,10 +23,43 @@
         "rarity": 3
       }
     ],
-    "sources": ["Slime"]
+    "sources": [
+      "Slime"
+    ]
+  },
+  "handguard": {
+    "characters": [
+      "ayaka"
+    ],
+    "items": [
+      {
+        "id": "old-handguard",
+        "name": "Old Handguard",
+        "rarity": 1
+      },
+      {
+        "id": "kageuchi-handguard",
+        "name": "Kageuchi Handguard",
+        "rarity": 2
+      },
+      {
+        "id": "famed-handguard",
+        "name": "Famed Handguard",
+        "rarity": 3
+      }
+    ],
+    "sources": [
+      "Slime"
+    ]
   },
   "hilichurl-masks": {
-    "characters": ["jean", "noelle", "razor", "chongyun", "xingqiu"],
+    "characters": [
+      "jean",
+      "noelle",
+      "razor",
+      "chongyun",
+      "xingqiu"
+    ],
     "items": [
       {
         "id": "damaged-mask",
@@ -39,10 +77,19 @@
         "rarity": 3
       }
     ],
-    "sources": ["Hilichurl", "Samachurl", "Mitachurl", "Lawachurl"]
+    "sources": [
+      "Hilichurl",
+      "Samachurl",
+      "Mitachurl",
+      "Lawachurl"
+    ]
   },
   "hilichurl-arrowheads": {
-    "characters": ["amber", "diona", "fischl"],
+    "characters": [
+      "amber",
+      "diona",
+      "fischl"
+    ],
     "items": [
       {
         "id": "firm-arrowhead",
@@ -60,7 +107,9 @@
         "rarity": 3
       }
     ],
-    "sources": ["Hilichurl Archer"]
+    "sources": [
+      "Hilichurl Archer"
+    ]
   },
   "samachurl-scrolls": {
     "characters": [
@@ -88,10 +137,17 @@
         "rarity": 3
       }
     ],
-    "sources": ["Samachurl"]
+    "sources": [
+      "Samachurl"
+    ]
   },
   "treasure-hoarder-insignias": {
-    "characters": ["kaeya", "bennett", "beidou", "xinyan"],
+    "characters": [
+      "kaeya",
+      "bennett",
+      "beidou",
+      "xinyan"
+    ],
     "items": [
       {
         "id": "treasure-hoarder-insignia",
@@ -109,10 +165,16 @@
         "rarity": 3
       }
     ],
-    "sources": ["Treasure Hoarder"]
+    "sources": [
+      "Treasure Hoarder"
+    ]
   },
   "fatui-insignias": {
-    "characters": ["diluc", "ningguang", "tartaglia"],
+    "characters": [
+      "diluc",
+      "ningguang",
+      "tartaglia"
+    ],
     "items": [
       {
         "id": "recruit's-insignia",
@@ -130,10 +192,18 @@
         "rarity": 3
       }
     ],
-    "sources": ["Fatui Skirmisher", "Fatui Cicin Mage", "Fatui Agent"]
+    "sources": [
+      "Fatui Skirmisher",
+      "Fatui Cicin Mage",
+      "Fatui Agent"
+    ]
   },
   "whopperflower-nectar": {
-    "characters": ["mona", "sucrose", "keqing"],
+    "characters": [
+      "mona",
+      "sucrose",
+      "keqing"
+    ],
     "items": [
       {
         "id": "whopperflower-nectar",
@@ -151,7 +221,9 @@
         "rarity": 3
       }
     ],
-    "sources": ["Whopperflower"]
+    "sources": [
+      "Whopperflower"
+    ]
   },
   "hilichurl-horns": {
     "weapons": [
@@ -191,7 +263,10 @@
         "rarity": 4
       }
     ],
-    "sources": ["Mitachurl", "Lawachurl"]
+    "sources": [
+      "Mitachurl",
+      "Lawachurl"
+    ]
   },
   "ley-line": {
     "weapons": [
@@ -235,7 +310,9 @@
         "rarity": 4
       }
     ],
-    "sources": ["Abyss Mage"]
+    "sources": [
+      "Abyss Mage"
+    ]
   },
   "bone-shards": {
     "weapons": [
@@ -268,7 +345,9 @@
         "rarity": 4
       }
     ],
-    "sources": ["Geovishap Hatchling"]
+    "sources": [
+      "Geovishap Hatchling"
+    ]
   },
   "mist-grass": {
     "weapons": [
@@ -305,7 +384,9 @@
         "rarity": 4
       }
     ],
-    "sources": ["Fatui Cicin Mage"]
+    "sources": [
+      "Fatui Cicin Mage"
+    ]
   },
   "fatui-knives": {
     "weapons": [
@@ -341,7 +422,9 @@
         "rarity": 4
       }
     ],
-    "sources": ["Fatui Agent"]
+    "sources": [
+      "Fatui Agent"
+    ]
   },
   "chaos-parts": {
     "weapons": [
@@ -381,6 +464,10 @@
         "rarity": 4
       }
     ],
-    "sources": ["Ruin Guard", "Ruin Hunter", "Ruin Grader"]
+    "sources": [
+      "Ruin Guard",
+      "Ruin Hunter",
+      "Ruin Grader"
+    ]
   }
 }
