@@ -4,7 +4,9 @@
       "lisa",
       "venti",
       "xiangling",
-      "zhongli"
+      "zhongli",
+      "arataki-itto",
+      "xiao"
     ],
     "items": [
       {
@@ -29,7 +31,10 @@
   },
   "handguard": {
     "characters": [
-      "ayaka"
+      "ayaka",
+      "ayato",
+      "raiden",
+      "yae-miko"
     ],
     "items": [
       {
@@ -49,7 +54,35 @@
       }
     ],
     "sources": [
-      "Slime"
+      "Handguard"
+    ]
+  },
+  "spectral": {
+    "characters": [
+      "aloy",
+      "gorou",
+      "kokomi",
+      "kuki-shinobu"
+    ],
+    "items": [
+      {
+        "id": "spectral-husk",
+        "name": "Spectral Husk",
+        "rarity": 1
+      },
+      {
+        "id": "spectral-heart",
+        "name": "Spectral Heart",
+        "rarity": 2
+      },
+      {
+        "id": "spectral-nucleus",
+        "name": "Spectral Nucleus",
+        "rarity": 3
+      }
+    ],
+    "sources": [
+      "Spectral"
     ]
   },
   "hilichurl-masks": {
@@ -58,7 +91,13 @@
       "noelle",
       "razor",
       "chongyun",
-      "xingqiu"
+      "xingqiu",
+      "eula",
+      "sara",
+      "traveler-anemo",
+      "traveler-electro",
+      "traveler-geo",
+      "yun-jin"
     ],
     "items": [
       {
@@ -118,7 +157,8 @@
       "klee",
       "qiqi",
       "traveler-anemo",
-      "traveler-geo"
+      "traveler-geo",
+      "yoimiya"
     ],
     "items": [
       {
@@ -146,7 +186,11 @@
       "kaeya",
       "bennett",
       "beidou",
-      "xinyan"
+      "xinyan",
+      "kazuha",
+      "shikanoin-heizou",
+      "thoma",
+      "yanfei"
     ],
     "items": [
       {
@@ -173,7 +217,9 @@
     "characters": [
       "diluc",
       "ningguang",
-      "tartaglia"
+      "tartaglia",
+      "rosaria",
+      "yelan"
     ],
     "items": [
       {
@@ -198,11 +244,15 @@
       "Fatui Agent"
     ]
   },
-  "whopperflower-nectar": {
+  "nectar": {
     "characters": [
       "mona",
       "sucrose",
-      "keqing"
+      "keqing",
+      "ganyu",
+      "hu-tao",
+      "sayu",
+      "shenhe"
     ],
     "items": [
       {

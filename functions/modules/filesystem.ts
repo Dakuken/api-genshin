@@ -94,7 +94,6 @@ export async function getAvailableImages(
   type: string,
   id: string,
 ): Promise<string[]> {
-  console.log('--------------------------------------------------------------------------------------------------------------', id, type);
 
   const cacheId = `image-${type}-${id}`.toLowerCase();
   const found = await cache.get(cacheId);
